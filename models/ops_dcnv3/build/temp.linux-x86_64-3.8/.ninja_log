@@ -1,0 +1,7 @@
+# ninja log v5
+0	3775	1714612909574918582	/home/chenjie04/workstation/Distill_in_Logits/ops_dcnv3/build/temp.linux-x86_64-3.8/home/chenjie04/workstation/Distill_in_Logits/ops_dcnv3/src/cpu/dcnv3_cpu.o	78f00409a5c73271
+0	10845	1714612916638932621	/home/chenjie04/workstation/Distill_in_Logits/ops_dcnv3/build/temp.linux-x86_64-3.8/home/chenjie04/workstation/Distill_in_Logits/ops_dcnv3/src/vision.o	f913d4cd21caab39
+0	23145	1714612928942957091	/home/chenjie04/workstation/Distill_in_Logits/ops_dcnv3/build/temp.linux-x86_64-3.8/home/chenjie04/workstation/Distill_in_Logits/ops_dcnv3/src/cuda/dcnv3_cuda.o	507fda1a7c1589d8
+2	3371	1717065143461183320	/home/chenjie04/workstation/Distill_in_Logits_no_mmrazor/models/ops_dcnv3/build/temp.linux-x86_64-3.8/home/chenjie04/workstation/Distill_in_Logits_no_mmrazor/models/ops_dcnv3/src/cpu/dcnv3_cpu.o	6e6c323126d2dc87
+2	10755	1717065150837183335	/home/chenjie04/workstation/Distill_in_Logits_no_mmrazor/models/ops_dcnv3/build/temp.linux-x86_64-3.8/home/chenjie04/workstation/Distill_in_Logits_no_mmrazor/models/ops_dcnv3/src/vision.o	a7508be9bfdd0424
+2	23380	1717065163465183360	/home/chenjie04/workstation/Distill_in_Logits_no_mmrazor/models/ops_dcnv3/build/temp.linux-x86_64-3.8/home/chenjie04/workstation/Distill_in_Logits_no_mmrazor/models/ops_dcnv3/src/cuda/dcnv3_cuda.o	67fa2c0f1e1dc728
